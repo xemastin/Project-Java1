@@ -1,0 +1,5 @@
+com\kyotorestaurant\controller\web\AboutUsController.class
+com\kyotorestaurant\controller\web\MenuController.class
+com\kyotorestaurant\controller\web\HomeController.class
+com\kyotorestaurant\controller\web\PromotionController.class
+com\kyotorestaurant\controller\web\CartController.class

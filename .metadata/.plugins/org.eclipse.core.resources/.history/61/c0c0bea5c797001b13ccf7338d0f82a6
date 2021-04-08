@@ -1,0 +1,5 @@
+package com.kyotorestaurant.controller.web;
+
+public class MenuController {
+
+}
